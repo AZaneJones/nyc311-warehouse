@@ -1,0 +1,5 @@
+token.txt
+*.csv
+.~lock.*#
+!docs/*.csv
+__pycache__/
